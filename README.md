@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dullharry
-- 👀 I’m interested in software developpement
+- 👀 I’m interested in software developement
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me harrymonnv@gmail.com
